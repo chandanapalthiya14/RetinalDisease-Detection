@@ -1,4 +1,4 @@
-# RetinalDisease-Detection# Diabetic Retinopathy Detection using Deep Learning
+# Diabetic Retinopathy Detection using Deep Learning
 
 
 ## Overview
@@ -45,3 +45,4 @@ Accuracy We got 73%
 1. Run the server:
 `FLASK_APP=app.py FLASK_DEBUG=1 flask run  [port number, default=5000]`
 1. Using a web browser, go to `http://127.0.0.1:[port]/`
+
