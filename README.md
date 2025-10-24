@@ -16,10 +16,10 @@ Accuracy We got 73%
 
 ### Deployment Images
 	HomePage
-![Alt text](Images/Homepage.png)
+![Alt text](Homepage.png)
 	
 	Result	
-![Alt text](Images/result.png)
+![Alt text](result.png)
 
 
 
@@ -45,5 +45,6 @@ Accuracy We got 73%
 1. Run the server:
 `FLASK_APP=app.py FLASK_DEBUG=1 flask run  [port number, default=5000]`
 1. Using a web browser, go to `http://127.0.0.1:[port]/`
+
 
 
